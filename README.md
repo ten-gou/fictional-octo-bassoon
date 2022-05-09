@@ -26,6 +26,7 @@ Made by Libin Wang, this program is considered to be under Public Domain License
 A Tech blog base, with login, timeout logout, posting, editing, and deleting capabilities via MySQL
 
 ### 1-1. Picture or Video Examples
+[Link to the tutorial video](https://drive.google.com/file/d/1fZ0D_NzW8Fx69Kca8YD5TKL1I-9reP_N/view?usp=sharing)
 
 ### 1-2. Known Bugs
 N/A
