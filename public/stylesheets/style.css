@@ -8,21 +8,22 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
+  background-color: aliceblue;
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #164277;
   font-weight: bold;
   transition: color .1s;
 }
 
 a:hover {
-  color: #3486eb;
+  color: #5796e4;
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #3d9bc0;
   border: 0;
   padding: 1%;
   color: white;
@@ -80,6 +81,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 1%;
+  background-color: rgb(126, 121, 156);
 }
 
 header h1 {

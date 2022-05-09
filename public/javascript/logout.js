@@ -12,3 +12,6 @@ async function logout() {
   }
   
   document.querySelector('#logout').addEventListener('click', logout);
+
+  // logs out after 15 minutes
+  const Timeout_Logout = setTimeout(logout, 900000);
